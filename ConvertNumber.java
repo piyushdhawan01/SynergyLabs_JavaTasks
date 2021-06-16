@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PossibleCombinations {
+public class ConvertNumber {
 
     static int[] values = {1000,900,500,400,100,90,50,40,10,9,5,4,1};
     static String[] romanNumerals = {"M","CM", "D","CD","C","XC","L","XL","X","IX","V","IV","I"};
